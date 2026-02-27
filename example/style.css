@@ -1,0 +1,23 @@
+*{
+    font-family: tahoma;
+}
+
+.parent-section{
+   
+    height: 100dvh;
+
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.parent-form{
+
+    width: 30%;
+    border-radius: 15px;
+    padding: 50px;
+    
+}
+
