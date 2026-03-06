@@ -1,0 +1,58 @@
+*{
+  font-family: tahoma;
+}
+.parent-section{
+  height:100dvh;
+  
+  Display:Flex;
+  justify-content: center;
+  align-items: center;
+}
+.parent-form{
+  width:30%;
+  border-radius: 15px;
+  padding: 30px;
+
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+
+}
+.title-form{
+  font-size: 30px;
+  margin:0px;
+  margin-top: 30px;
+}
+.sub-form{
+  font-size: 10px;
+  margin:0px;
+  margin-bottom: 10px;
+}
+.input-form{
+  width:90%;
+  padding:10px;
+  margin-bottom: 10px;
+  
+}
+.forget-form{
+  font-size: 10px;
+  color: blue;
+  text-decoration: none;
+  
+}
+.forget-form:hover{
+  color: brown;
+}
+
+.button-form{
+  width:100%;
+  padding:10px;
+  border-radius: 20px;
+  border:1px;
+  background-color: blue;
+  color: white;
+  margin-top: 16px;
+  transition: .3s ease;
+}
+.button-form:hover{
+  background-color: lightblue;
+}
